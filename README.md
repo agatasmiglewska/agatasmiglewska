@@ -1,16 +1,16 @@
-### Hi there 👋
+# Portfolio
+**About Me**  
+Hello! I am a dedicated and detail-oriented Software Tester with a passion for ensuring the quality and functionality of software applications. With a strong background in international environment and the Scrum methodology, I am adept at designing and executing comprehensive test plans to identify and rectify defects. My goal is to contribute to the development of reliable software solutions and to use my new skills.
 
-<!--
-**agatasmiglewska/agatasmiglewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact Information**  
+Email: agatasmiglewska@1996gmail.com  
+LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 
-Here are some ideas to get you started:
+**Technical Skills**  
+* Programming Languages: Python, SQL  
+* Tools and Technologies: API Postman, JIRA, TestLink, BrowserStack
+* Manual software testing   
+* Scrum methodology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications and Courses**  
+Software tester - ALX Academy
