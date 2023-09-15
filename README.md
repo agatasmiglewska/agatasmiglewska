@@ -9,8 +9,10 @@ LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 **Technical Skills**  
 * Programming Languages: Python, SQL  
 * Tools and Technologies: API Postman, JIRA, TestLink, BrowserStack
-* Manual software testing   
+* Manual software testing
+* Reporting bugs
+* Creating test cases
 * Scrum methodology  
 
-**Certifications and Courses**  
+**Courses**  
 Software tester - ALX Academy
