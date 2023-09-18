@@ -16,6 +16,8 @@ LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 
 **Courses**  
 [Software tester](https://drive.google.com/file/d/1hn5HRY195YBwhJbr3D4cRetaoeprcR8V/view?usp=sharing) - ALX Academy
+The Complete SQL Bootcamp: Go from Zero to Hero - Udemy
+
 
 **My projects**  
 testing site [Swag Labs](https://www.saucedemo.com/)
