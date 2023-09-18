@@ -6,7 +6,7 @@ Hello! I am a dedicated and detail-oriented Software Tester with a passion for e
 Email: agatasmiglewska@1996gmail.com  
 LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 
-**Technical Skills**  
+**Technical Skills**
 * Programming Languages: Python, SQL  
 * Tools and Technologies: API Postman, JIRA, TestLink, BrowserStack
 * Manual software testing
@@ -16,3 +16,9 @@ LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 
 **Courses**  
 Software tester - ALX Academy
+
+**My projects**  
+testing site [Swag Labs](https://www.saucedemo.com/)
+* [Test cases](https://docs.google.com/spreadsheets/d/1Mm_LDXRzouTwMuIGenJMwfCwlZNH3EhD/edit?usp=drive_link&ouid=100875905387530406038&rtpof=true&sd=true)
+* [Report](https://drive.google.com/file/d/1FfZKqw2kzB-rYV9ahYvOn_9CCYwkQLEj/view?usp=drive_link)
+
