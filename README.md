@@ -15,7 +15,7 @@ LinkedIn: www.linkedin.com/in/agata-śmiglewska-1b5a0b216
 * Scrum methodology  
 
 **Courses**  
-Software tester - ALX Academy
+[Software tester](https://drive.google.com/file/d/1hn5HRY195YBwhJbr3D4cRetaoeprcR8V/view?usp=sharing) - ALX Academy
 
 **My projects**  
 testing site [Swag Labs](https://www.saucedemo.com/)
